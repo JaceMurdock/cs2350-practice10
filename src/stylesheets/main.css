@@ -1,2 +1,8 @@
 /* Your styles go here */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.jumbotron {
+  background: url(https://images.unsplash.com/photo-1574970324184-746b18c8bd49?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXRhaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60);
+  background-position: 0 -200px ;
+  background-size: cover;
+}
